@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kajal Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Kajal Kamble</h1>
+<p>Java Backend Developer</p>
+
+<h2>Skills</h2>
+<ul>
+<li>Java</li>
+<li>Spring Boot</li>
+<li>MySQL</li>
+</ul>
+
+<h2>Projects</h2>
+<p>Library Management System</p>
+
+</body>
+</html>
